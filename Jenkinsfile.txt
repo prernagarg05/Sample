@@ -5,7 +5,7 @@ label 'main'
 	}
 	}
 stages {
-stage('Hello') {
+stage('Hello Worlds') {
 steps {
 Echo "Hello World"
       }
